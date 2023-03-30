@@ -5,7 +5,7 @@
 This is weather api app.
 
 ## CopyRight
-2022 [kenshiro @ kendea](https://github.com/kendea1221) All right reserved.
+2023 [Kenshiro @ kenshiro2788.ghac.me](https://github.com/kendea1221) all right reserved.
 
 ## Licence
 This code is under the MIT.
